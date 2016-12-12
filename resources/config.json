@@ -1,0 +1,12 @@
+{
+  "DB_TYPE":"jdbc:mysql://",
+  "DB_HOST":"localhost",
+  "DB_PORT":"3306",
+  "DB_NAME":"test",
+  "DB_USER":"steinar",
+  "DB_PASS":"100691",
+  "SERVER_PORT":"8000",
+  "SSL_KEY":"resources/keystore.jks",
+  "SSL_PWD":"brugtbog",
+  "ALLOW_ORIGIN": "https://localhost:63343"
+}

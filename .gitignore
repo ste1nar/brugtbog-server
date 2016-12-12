@@ -1,0 +1,14 @@
+*.class
+
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.xml
+*.iml
+*.DS_Store
+!pom.xml
+
+hs_err_pid*
