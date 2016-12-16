@@ -900,7 +900,7 @@ public class ServiceImplementation {
 
             int rowsAffected = clearSessionsSQL.executeUpdate();
 
-            if (rowsAffected != 0)  {
+            if (rowsAffected == 1)  {
                 return true;
             }
 
